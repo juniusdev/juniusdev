@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on ...
 
-FindTheNite.com 
+https://findthenite.com </br>
 This is effectively a passion project, that I came up with out of frustration. The goal is to make it easier than ever to find out what you're going to do tonight.
 
 <!--
